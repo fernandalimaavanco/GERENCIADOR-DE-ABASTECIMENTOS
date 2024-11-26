@@ -1,0 +1,25 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "abastecimentoavanco-95004",
+                    "appId": "1:293014776718:android:be370d7c5a85ee1fa2ae49",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "abastecimentoavanco-95004",
+                    "configurations": {
+                        "android": "1:293014776718:android:73cdd2f12f828f52a2ae49",
+                        "ios": "1:293014776718:ios:aa54967462e3aef6a2ae49",
+                        "macos": "1:293014776718:ios:aa54967462e3aef6a2ae49",
+                        "web": "1:293014776718:web:907516bb0d3de691a2ae49",
+                        "windows": "1:293014776718:web:9e6a626605b249eca2ae49"
+                    }
+                }
+            }
+        }
+    }
+}

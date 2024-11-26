@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293014776718",
+    "project_id": "abastecimentoavanco-95004",
+    "storage_bucket": "abastecimentoavanco-95004.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293014776718:android:be370d7c5a85ee1fa2ae49",
+        "android_client_info": {
+          "package_name": "com.abastecimento"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkDmDQg_gdVJBZb_jnZyrrXzI_fDT8we0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
